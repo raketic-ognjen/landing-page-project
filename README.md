@@ -11,7 +11,12 @@ I did from top to bottom landing page
 
 I used 4 Different Colors:
     * Background color for body - #75a5c4
-    * For Hero Area - Main color #232C31 and Second color #CA5834
-    * For Motivational Quote 
+    * For Hero Area - Main color #232C31 and second color #CA5834
+    * For Motivational Quote - main color #CA5834 and second color #232C31
+    * For CTA - Main color - #f7ac75, for second color #232C31 and third #CA5834
 
+I coded in HTML5 and CSS3 and try to use flex as a main frame.
 
+You can see this work here: https://raketic-ognjen.github.io/landing-page-project/
+
+See you!
